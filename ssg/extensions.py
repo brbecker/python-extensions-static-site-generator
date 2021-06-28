@@ -1,5 +1,4 @@
 import importlib
-from os import DirEntry
 import sys
 from pathlib import Path
 
